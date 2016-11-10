@@ -227,6 +227,6 @@ func main() {
 		} else {
 			fmt.Println("I win!")
 		}
-p	}
+	}
 	os.Exit(0)
 }
